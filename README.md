@@ -35,24 +35,11 @@ Here are some ideas to get you started:
 
 <img src="images/Snap-Note-Clip.gif" width="100%">
 
-ページの指定範囲を切り取って記録し、メモ付きのノートを作成できるChrome拡張機能です。
+ページの指定範囲を切り取って記録し、メモ付きのノートを作成できるChrome拡張機能。
 
-主な機能は以下の通りです。
-- 開いているタブのスクリーンショットの取得
-- 任意のメモの入力・保存
-- サイドバーでのスクリーンショット・メモの一覧表示
-- ローカルストレージへの保存および削除
-- スクリーンショット画像の拡大表示
-- スクリーンショットをクリックして該当タブへのジャンプ
-
-結果は優秀賞を受賞しました
+優秀賞を受賞
 - Githubレポジトリは[こちら](https://github.com/MRyutaro/SnapNoteClip)
 - 発表用スライドは[こちら](https://speakerdeck.com/ryutarom/ji-yu-camp2024-vol-dot-22-snapnoteclip)
-
-**使用した技術**
-- JavaScript
-- HTML
-- CSS
 
 ## Conference
 - 新木直人，村田忠彦  
