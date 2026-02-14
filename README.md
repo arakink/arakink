@@ -25,21 +25,25 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## Stats
-<p>
-  <img alt="github graph" height="178px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naoto-Araki&theme=dracula" />
-</p>
-
 ## Hackathon
 ### 📌 [技育CAMP2024 ハッカソン Vol.22](https://talent.supporterz.jp/events/21ff01e0-4e23-4758-9e08-b50c29c51860/)（2025年2月）
-
-<img src="images/Snap-Note-Clip.gif" width="100%">
-
-ページの指定範囲を切り取って記録し、メモ付きのノートを作成できるChrome拡張機能。
-
-優秀賞を受賞
-- Githubレポジトリは[こちら](https://github.com/MRyutaro/SnapNoteClip)
-- 発表用スライドは[こちら](https://speakerdeck.com/ryutarom/ji-yu-camp2024-vol-dot-22-snapnoteclip)
+<table>
+  <tr>
+    <td width="50%">
+      <img src="images/Snap-Note-Clip.gif" width="100%">
+    </td>
+    <td width="50%" style="vertical-align: top;">
+      <h3>SnapNoteClipの特徴</h3>
+      <p>ページの指定範囲を切り取って記録し、メモ付きのノートを作成できるChrome拡張機能</p>
+      <ul>
+        <li>優秀賞受賞</li>
+        <li>直感的な範囲選択UI</li>
+        <li>🔗 <a href="https://github.com/MRyutaro/SnapNoteClip">GitHubリポジトリ</a></li>
+        <li>📊 <a href="https://speakerdeck.com/ryutarom/ji-yu-camp2024-vol-dot-22-snapnoteclip">発表用スライド</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Conference
 - 新木直人，村田忠彦  
