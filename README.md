@@ -1,13 +1,16 @@
 ## Hi there 👋
-👨‍🎓 I’m currently a student at Osaka University
+Master's Student at Osaka University | Graduate School of Information Science and Technology
 
-👨‍💻 I worked as a software engineering intern at [six1](https://six1.jp/) from October 2024 to September 2025.
-
-😄 This is my [portfolio](https://naoto-portfolio-alpha-blue.vercel.app/)
+### Career & Projects
+* **Software Engineering Intern** at [six1](https://six1.jp/) (Oct 2024 - Sep 2025)
+* **Explore my work**: [portfolio](https://naoto-portfolio-alpha-blue.vercel.app/)
 
 <p align="left">
   <a href="https://github.com/Naoto-Araki">
-    <img height="20" src="https://komarev.com/ghpvc/?username=Naoto-Araki" />
+    <img src="https://komarev.com/ghpvc/?username=Naoto-Araki" alt="Page Views" />
+  </a>
+  <a href="https://qiita.com/Naoto-Araki">
+    <img src="https://img.shields.io/badge/Qiita-55c500?style=flat&logo=qiita&logoColor=white" alt="Qiita" />
   </a>
 </p>
 
@@ -24,9 +27,9 @@
       <ul>
         <li>優秀賞受賞</li>
         <li>直感的な範囲選択UI</li>
-        <li>🔗 <a href="https://github.com/MRyutaro/SnapNoteClip">GitHubリポジトリ</a></li>
-        <li>📊 <a href="https://speakerdeck.com/ryutarom/ji-yu-camp2024-vol-dot-22-snapnoteclip">発表用スライド</a></li>
       </ul>
+      <p><a href="https://github.com/MRyutaro/SnapNoteClip">GitHubリポジトリ</a></p>
+      <p><a href="https://speakerdeck.com/ryutarom/ji-yu-camp2024-vol-dot-22-snapnoteclip">発表用スライド</a></p>
     </td>
   </tr>
 </table>
