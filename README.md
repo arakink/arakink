@@ -6,7 +6,7 @@ Master's Student at Osaka University | Graduate School of Information Science an
 * **Explore my work**: [portfolio](https://naoto-portfolio-alpha-blue.vercel.app/)
 
 <p align="left">
-  <a href="https://github.com/Naoto-Araki">
+  <a href="https://github.com/arakink">
     <img src="https://komarev.com/ghpvc/?username=Naoto-Araki" alt="Page Views" />
   </a>
   <a href="https://qiita.com/Naoto-Araki">
