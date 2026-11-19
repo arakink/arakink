@@ -13,6 +13,9 @@ Master's Student at Osaka University | Graduate School of Information Science an
   <a href="https://qiita.com/arakink">
     <img src="https://img.shields.io/badge/Qiita-arakink-green?logo=qiita&style=flat-square" />
   </a>
+  <a href="https://zenn.dev/arakink">
+    <img src="https://img.shields.io/badge/Zenn-arakink-3EA8FF?logo=zenn&style=flat-square" />
+  </a>
 </p>
 
 <div align="center">
